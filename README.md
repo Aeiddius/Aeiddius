@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Aeiddius
-- 👀 I’m interested in Programming (Obviously), in Mechanical Engineering, and AI.
+- 👀 I’m interested in Programming, Mechanical Engineering, and AI.
 - 🌱 I’m currently learning Machine Learning
 - 💞️ I’m looking to collaborate on (N/A)
 - 📫 How to reach me; email me at adriantagayom@gmail.com
